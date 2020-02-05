@@ -1,0 +1,6 @@
+com/subsetsum/rest/representations/Subsetsum.class
+com/subsetsum/rest/dao/SubsetsumDB.class
+com/subsetsum/rest/controller/SubsetsumRESTController.class
+com/subsetsum/rest/App.class
+com/subsetsum/rest/solver/iSolver.class
+com/subsetsum/rest/solver/SubsetsumSolver.class
